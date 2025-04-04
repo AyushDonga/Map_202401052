@@ -14,3 +14,6 @@ vector<int> twoSum(vector<int>& nums, int target) {
 }
 
 };
+
+// Time Complexity: O(n)
+// Space Complexity: O(n)
