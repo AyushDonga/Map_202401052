@@ -18,3 +18,6 @@ public:
         return -1; // If no unique character
     }
 };
+
+// Time Complexity: O(n)
+// Space Complexity: O(1)
